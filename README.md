@@ -1,4 +1,4 @@
-# CS250_Software_Development_Lifecycle
+# CS250 Software Development Lifecycle
 Explore the stages of the Software Development Lifecycle (SDLC) through the lens of developers and testers to examine the characteristics, documentation, and purpose of each stage. 
 
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
